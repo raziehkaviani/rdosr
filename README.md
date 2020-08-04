@@ -2,7 +2,7 @@
 
 This is the implementation of the following paper:
 
-R. Kaviani baghbaderani, Y. Qu. H. Qi, C. Stutts, [Representative-Discriminative Learning for Open-set Land Cover Classification of Satellite Imagery](https://arxiv.org/abs/2007.10891),  European Conference on Computer Vision (ECCV), 2020.
+R. Kaviani Baghbaderani, Y. Qu. H. Qi, C. Stutts, [Representative-Discriminative Learning for Open-set Land Cover Classification of Satellite Imagery](https://arxiv.org/abs/2007.10891),  European Conference on Computer Vision (ECCV), 2020.
 
 ## Pre-requisites
 * Python 3.6
