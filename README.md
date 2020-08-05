@@ -20,19 +20,19 @@ The code uses the following datasets:
 ## Prepare the training dataset
 To preprocess the Hyperspcetral data and divide it to Known and Unknown sets:
 ```python
-python preprocessing.py --dataset PaviaU --unk 3 7
+python preprocessing.py --dataset Indian_pines --unk 3 7
 ```
 
 ## Training
 To train the network on known set:
 ```python
-python train_rdosr.py --dataset PaviaU
+python train_rdosr.py --dataset Indian_pines
 ```
 
 ## Testing
 1. To test the network on a combination of known and unknown sets:
 ```python
-python test_rdosr.py --dataset PaviaU
+python test_rdosr.py --dataset Indian_pines
 ```
 2. Run plot_loss_accu.m  which will display the training curves.
 3. Run plot_histograms_ROC.m which will display the ROC curve. 
