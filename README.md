@@ -30,10 +30,12 @@ python train_rdosr.py --dataset PaviaU
 ```
 
 ## Testing
-To test the network on a combination of known and unknown sets:
+1. To test the network on a combination of known and unknown sets:
 ```python
 python test_rdosr.py --dataset PaviaU
 ```
+2. Run plot_loss_accu.m  which will display the training curves.
+3. Run plot_histograms_ROC.m which will display the ROC curve. 
 
 ## Contact
 [Razieh Kaviani Baghbaderani](http://web.eecs.utk.edu/~rkavian1/) (rkavian1@vols.utk.edu)
