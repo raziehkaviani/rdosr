@@ -1,6 +1,6 @@
 # Representative-Discriminative Open-set Recognition
 
-<img src="./framework.png" width="100" height="100">
+<img src="./framework.png" width="700" height="300">
 
 This is the implementation of the following paper:
 
